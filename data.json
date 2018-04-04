@@ -1,0 +1,40 @@
+{
+  "career":{
+    "info":"To complete MS."
+  },
+  "education":[
+  {
+    "degree":"SSC",
+    "school":"St.ANNES",
+    "data":["2013","87%"]
+  },
+  {
+    "degree":"INTERMEDIATE",
+    "school":"PAGE",
+    "data":["2015","90%"]
+  },
+  {
+    "degree":"B.Tech",
+    "school":"SVEC",
+    "data":["2019","80%"]
+  }
+],
+"skills":[
+  {
+    "name":"Operating System",
+    "info":["Windows","Ubuntu","Fedora"]
+  },
+  {
+    "name":"Languages",
+    "info":["C","C++","Java"]
+  },
+  {
+    "name":"Databases",
+    "info":["Mysql"]
+  },
+  {
+    "name":"Web Technologies",
+    "info":["HTML","CSS","JS","PHP"]
+  }
+]
+}
